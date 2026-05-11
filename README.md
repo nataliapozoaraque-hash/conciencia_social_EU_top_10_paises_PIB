@@ -57,9 +57,8 @@ Para garantizar la calidad de las visualizaciones, realizamos una fase previa de
 ├── README.md
 ├── describe_csv_ess.ipynb
 └── eurostat_pib_per_capita_inversiones.ipynb
+```
 
-
----
-* Este proyecto fue desarrollado dentro del marco del Bootcamp de Data Analysis de Adalab por Eva Ferrer, Saray Hernández y Natalia Pozo.
+Este proyecto fue desarrollado dentro del marco del Bootcamp de Data Analysis de Adalab por Eva Ferrer, Saray Hernández y Natalia Pozo.
 
 
